@@ -10,6 +10,16 @@ h1{
 }
 
 .pelis{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
     padding-left: 25px;
+    width: 40%;
+    height: 200px;
 }
 
+button {
+    width: 200px;
+    margin-top: 25px;
+}

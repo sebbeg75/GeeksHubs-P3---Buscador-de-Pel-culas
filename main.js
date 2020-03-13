@@ -8,7 +8,7 @@ function buscar(){
     document.getElementById('titulo').innerHTML = '';
     axios({
         method: 'GET',
-        url: `https://api.themoviedb.org/3/search/movie?api_key=755a8b58d5090530aeb6ee3e1618eb2b&language=es-ES&query=${search}}`
+        url: `https://api.themoviedb.org/3/search/movie?api_key=cea68b520beecac6718820e4ac576c3a&language=es-ES&query=${search}}`
     }).then(res => {
         let movies = res.data.results;
         for (let i = 0;  i< movies.length; i++) {
