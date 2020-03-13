@@ -1,12 +1,18 @@
 body{
-    background-image: url(../img/fight-club-mainer-main.jpg);
+    background-image: url(../img/fightclub.jpg);
     background-size: cover;
     opacity: 0.9;
 }
 
 h1{
     color: aliceblue;
-    padding: 25px;
+    margin-top: 25px;
+
+}
+
+.first{
+    
+    padding: 45px;
 }
 
 .pelis{
