@@ -24,8 +24,8 @@ function buscar(){
             document.getElementById('one').innerHTML = filmsToSearch;
         }
         // if (i>(Math.round((movies.length)*2/3))){
-        //     document.getElementById('three').innerHTML = filmsToSearch;
-        // }
+          //   document.getElementById('three').innerHTML = filmsToSearch;
+        //}
         else{
             document.getElementById('two').innerHTML = filmsToSearch;
         }
