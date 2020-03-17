@@ -1,4 +1,4 @@
-# GeeksHubs-P3---Buscador-de-Pel-culas
+# GeeksHubs-P3---Buscador-de-Peliculas
 
 Tercer Proyecto del Bootcamp 🚀
 
